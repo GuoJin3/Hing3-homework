@@ -1,19 +1,19 @@
-# 【学号】的软导作业索引页
+# 【18342021】的软导作业索引页
 
 ## 课后作业
 
 1. [01-使用维基百科（Wikipedia）解释名词](hw01)
-2. [02-](hw02)
-3. [03-](hw03)
-4. ...
+2. [02-Hexadecimal Conversion And Interpretation](hw02)
+3. [03-Conversion And Proof](hw03)
+4. [04-Explanation And Response](hw04)
 
 
 ## 实验与实践
 
 1. [01-我的 Markdown 博客](lab01)
 2. [02-制作 HTML5 游戏](lab02)
-3. [03-我喜欢的...-...](lab03)
-4. [04-我的科普博客](lab04)
+3. [03-我喜欢的电影-Artificial Intelligence](lab03)
+4. [04-科普-Computer color](lab04)
 5. [05-电路学习](lab05)
 6. [06-X现象背后的IT规律](lab06)
 7. [07-机器语言实验报告](lab07)
