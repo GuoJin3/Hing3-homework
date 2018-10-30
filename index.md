@@ -8,7 +8,8 @@
 4. [04-Explanation And Response](hw04)
 
 
-## 实验与实践
+## 实验与实践5. [05-逻辑电路](hw05)
+6. [06-计算机的基本组成](hw06)
 
 1. [01-我的 Markdown 博客](lab01)
 2. [02-制作 HTML5 游戏](lab02)
