@@ -16,5 +16,5 @@
 ## 求矩阵a的逆
 同上构建矩阵<br/>
 求逆公式<br/>
-np.linalg.inv(矩阵名)<br>
+np.(矩阵名)<br>
 ![](images/求逆线代.png)<br>
