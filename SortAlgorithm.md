@@ -9,6 +9,7 @@
 -
 
 假设你是一名图书馆助理，面对一整书车的图书，你需要将他们排序后上架，你会怎样排序呢？<br>
+![](images/书车.jpg)
 ![](https://cdn.applysquare.net/storage/tmp/qa/8YVAKFtk5/AcGLVROUI.jpeg)
 我们下意识的做法便是先按字母将图书分类，在对每一个字母类的图书进行排序<br>
 其实这种排序方法便是运用了快速排序的思想<br>
