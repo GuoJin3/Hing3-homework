@@ -24,6 +24,7 @@
 # [](#header-3)2.简单表示
 -
 
+![](https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike72%2C5%2C5%2C72%2C24/sign=e15a5286fbedab64607f4592965fc4a6/b7003af33a87e950707fdf2110385343fbf2b416.jpg)
 先任意意选取一个数据（通常选用数组的第一个数）作为**关键数据**<br>
 然后将所有比它小的数都放到它前面<br>
 所有比它大的数都放到它后面<br>
